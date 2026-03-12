@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-heading{
+  color:rgb(165, 101, 42);
+  text-align: center;
+  font-size: 40px;
+}
