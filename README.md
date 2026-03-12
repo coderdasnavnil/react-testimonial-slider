@@ -18,11 +18,7 @@ A simple testimonial slider built using React. Users can browse through differen
 - React Icons
 
 ## Demo
-
-https://react-testimonial-slider.vercel.app/)
-
-Example:
-https://your-demo-link.vercel.app
+https://react-testimonial-slider.vercel.app/
 
 ## Project Structure
 
