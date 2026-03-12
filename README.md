@@ -19,7 +19,7 @@ A simple testimonial slider built using React. Users can browse through differen
 
 ## Demo
 
-Add your deployed link here (Netlify / Vercel)
+https://react-testimonial-slider.vercel.app/)
 
 Example:
 https://your-demo-link.vercel.app
